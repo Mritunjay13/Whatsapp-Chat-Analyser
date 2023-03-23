@@ -1,6 +1,0 @@
-emoji==2.2.0
-matplotlib==3.7.0
-pandas==1.5.3
-streamlit==1.20.0
-urlextract==1.8.0
-streamlit==1.18.1
